@@ -762,15 +762,15 @@
     },
     "Elevation-dark-theme": {
       "04": {
-        "value": "#3d3d3d",
-        "type": "color"
-      },
-      "03": {
         "value": "#363636",
         "type": "color"
       },
+      "03": {
+        "value": "#303030",
+        "type": "color"
+      },
       "02": {
-        "value": "#2e2e2e",
+        "value": "#2B2B2B",
         "type": "color"
       },
       "01": {
