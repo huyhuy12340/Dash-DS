@@ -17,7 +17,7 @@
       "type": "borderRadius"
     },
     "Space": {
-      "Space.Stack": {
+      "Stack": {
         "x": {
           "value": "4",
           "type": "spacing"
@@ -58,90 +58,90 @@
           "value": "{Space.Stack.10x}+{Space.Stack.10x}",
           "type": "spacing"
         }
+      }
+    },
+    "Inline": {
+      "x": {
+        "value": "4",
+        "type": "spacing"
       },
-      "Inline": {
-        "x": {
-          "value": "4",
-          "type": "spacing"
-        },
-        "2x": {
-          "value": "{Space.Stack.x} + 4",
-          "type": "spacing"
-        },
-        "3x": {
-          "value": "{Space.Stack.2x} + 4",
-          "type": "spacing"
-        },
-        "4x": {
-          "value": "{Space.Stack.3x} + 4",
-          "type": "spacing"
-        },
-        "5x": {
-          "value": "{Space.Stack.4x} + 4",
-          "type": "spacing"
-        },
-        "6x": {
-          "value": "{Space.Stack.5x} + 4",
-          "type": "spacing"
-        },
-        "8x": {
-          "value": "{Space.Stack.6x}+{Space.Stack.2x}",
-          "type": "spacing"
-        },
-        "10x": {
-          "value": "{Space.Stack.x}*10",
-          "type": "spacing"
-        },
-        "14x": {
-          "value": "{Space.Stack.10x}+{Space.Stack.4x}",
-          "type": "spacing"
-        },
-        "20x": {
-          "value": "{Space.Stack.10x}+{Space.Stack.10x}",
-          "type": "spacing"
-        }
+      "2x": {
+        "value": "{Space.Stack.x} + 4",
+        "type": "spacing"
       },
-      "Inset": {
-        "x": {
-          "value": "4",
-          "type": "spacing"
-        },
-        "2x": {
-          "value": "{Space.Stack.x} + 4",
-          "type": "spacing"
-        },
-        "3x": {
-          "value": "{Space.Stack.2x} + 4",
-          "type": "spacing"
-        },
-        "4x": {
-          "value": "{Space.Stack.3x} + 4",
-          "type": "spacing"
-        },
-        "5x": {
-          "value": "{Space.Stack.4x} + 4",
-          "type": "spacing"
-        },
-        "6x": {
-          "value": "{Space.Stack.5x} + 4",
-          "type": "spacing"
-        },
-        "8x": {
-          "value": "{Space.Stack.6x}+{Space.Stack.2x}",
-          "type": "spacing"
-        },
-        "10x": {
-          "value": "{Space.Stack.x}*10",
-          "type": "spacing"
-        },
-        "14x": {
-          "value": "{Space.Stack.10x}+{Space.Stack.4x}",
-          "type": "spacing"
-        },
-        "20x": {
-          "value": "{Space.Stack.10x}+{Space.Stack.10x}",
-          "type": "spacing"
-        }
+      "3x": {
+        "value": "{Space.Stack.2x} + 4",
+        "type": "spacing"
+      },
+      "4x": {
+        "value": "{Space.Stack.3x} + 4",
+        "type": "spacing"
+      },
+      "5x": {
+        "value": "{Space.Stack.4x} + 4",
+        "type": "spacing"
+      },
+      "6x": {
+        "value": "{Space.Stack.5x} + 4",
+        "type": "spacing"
+      },
+      "8x": {
+        "value": "{Space.Stack.6x}+{Space.Stack.2x}",
+        "type": "spacing"
+      },
+      "10x": {
+        "value": "{Space.Stack.x}*10",
+        "type": "spacing"
+      },
+      "14x": {
+        "value": "{Space.Stack.10x}+{Space.Stack.4x}",
+        "type": "spacing"
+      },
+      "20x": {
+        "value": "{Space.Stack.10x}+{Space.Stack.10x}",
+        "type": "spacing"
+      }
+    },
+    "Inset": {
+      "x": {
+        "value": "4",
+        "type": "spacing"
+      },
+      "2x": {
+        "value": "{Space.Stack.x} + 4",
+        "type": "spacing"
+      },
+      "3x": {
+        "value": "{Space.Stack.2x} + 4",
+        "type": "spacing"
+      },
+      "4x": {
+        "value": "{Space.Stack.3x} + 4",
+        "type": "spacing"
+      },
+      "5x": {
+        "value": "{Space.Stack.4x} + 4",
+        "type": "spacing"
+      },
+      "6x": {
+        "value": "{Space.Stack.5x} + 4",
+        "type": "spacing"
+      },
+      "8x": {
+        "value": "{Space.Stack.6x}+{Space.Stack.2x}",
+        "type": "spacing"
+      },
+      "10x": {
+        "value": "{Space.Stack.x}*10",
+        "type": "spacing"
+      },
+      "14x": {
+        "value": "{Space.Stack.10x}+{Space.Stack.4x}",
+        "type": "spacing"
+      },
+      "20x": {
+        "value": "{Space.Stack.10x}+{Space.Stack.10x}",
+        "type": "spacing"
       }
     },
     "Elevation-light-theme": {
