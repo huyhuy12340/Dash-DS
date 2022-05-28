@@ -791,130 +791,132 @@
         "value": "24",
         "type": "borderRadius"
       },
-      "Brand": {
-        "Default": {
-          "value": "{Color.Global.Blue.06}",
-          "type": "color"
+      "Alias": {
+        "Brand": {
+          "Default": {
+            "value": "{Color.Global.Blue.06}",
+            "type": "color"
+          },
+          "Light": {
+            "value": "{Color.Global.Blue.03}",
+            "type": "color"
+          },
+          "Dark": {
+            "value": "{Color.Global.Blue.07}",
+            "type": "color"
+          },
+          "Tint": {
+            "value": "{Color.Global.Blue.02}",
+            "type": "color"
+          }
         },
-        "Light": {
-          "value": "{Color.Global.Blue.03}",
-          "type": "color"
+        "Negative": {
+          "Default": {
+            "value": "{Color.Global.Red.05}",
+            "type": "color"
+          },
+          "Light": {
+            "value": "{Color.Global.Red.03}",
+            "type": "color"
+          },
+          "Dark": {
+            "value": "{Color.Global.Red.07}",
+            "type": "color"
+          },
+          "Tint": {
+            "value": "{Color.Global.Red.02}",
+            "type": "color"
+          }
         },
-        "Dark": {
-          "value": "{Color.Global.Blue.07}",
-          "type": "color"
+        "Positive": {
+          "Default": {
+            "value": "{Color.Global.Green.05}",
+            "type": "color"
+          },
+          "Light": {
+            "value": "{Color.Global.Green.03}",
+            "type": "color"
+          },
+          "Dark": {
+            "value": "{Color.Global.Green.07}",
+            "type": "color"
+          },
+          "Tint": {
+            "value": "{Color.Global.Green.02}",
+            "type": "color"
+          }
         },
-        "Tint": {
-          "value": "{Color.Global.Blue.02}",
-          "type": "color"
-        }
-      },
-      "Negative": {
-        "Default": {
-          "value": "{Color.Global.Red.05}",
-          "type": "color"
+        "AlterOrange": {
+          "Default": {
+            "value": "{Color.Global.Orange.05}",
+            "type": "color"
+          },
+          "Light": {
+            "value": "{Color.Global.Orange.03}",
+            "type": "color"
+          },
+          "Dark": {
+            "value": "{Color.Global.Orange.07}",
+            "type": "color"
+          },
+          "Tint": {
+            "value": "{Color.Global.Orange.02}",
+            "type": "color"
+          }
         },
-        "Light": {
-          "value": "{Color.Global.Red.03}",
-          "type": "color"
+        "AlterMagenta": {
+          "Default": {
+            "value": "{Color.Global.Magenta.05}",
+            "type": "color"
+          },
+          "Light": {
+            "value": "{Color.Global.Magenta.03}",
+            "type": "color"
+          },
+          "Dark": {
+            "value": "{Color.Global.Magenta.07}",
+            "type": "color"
+          },
+          "Tint": {
+            "value": "{Color.Global.Magenta.02}",
+            "type": "color"
+          }
         },
-        "Dark": {
-          "value": "{Color.Global.Red.07}",
-          "type": "color"
+        "Theme": {
+          "Default": {
+            "value": "{Color.Global.Neutral.01}",
+            "type": "color"
+          },
+          "Dark": {
+            "value": "{Color.Global.Neutral.02}",
+            "type": "color"
+          },
+          "Darker": {
+            "value": "{Color.Global.Neutral.03}",
+            "type": "color"
+          },
+          "Darkest": {
+            "value": "{Color.Global.Neutral.04}",
+            "type": "color"
+          }
         },
-        "Tint": {
-          "value": "{Color.Global.Red.02}",
-          "type": "color"
-        }
-      },
-      "Positive": {
-        "Default": {
-          "value": "{Color.Global.Green.05}",
-          "type": "color"
-        },
-        "Light": {
-          "value": "{Color.Global.Green.03}",
-          "type": "color"
-        },
-        "Dark": {
-          "value": "{Color.Global.Green.07}",
-          "type": "color"
-        },
-        "Tint": {
-          "value": "{Color.Global.Green.02}",
-          "type": "color"
-        }
-      },
-      "AlterOrange": {
-        "Default": {
-          "value": "{Color.Global.Orange.05}",
-          "type": "color"
-        },
-        "Light": {
-          "value": "{Color.Global.Orange.03}",
-          "type": "color"
-        },
-        "Dark": {
-          "value": "{Color.Global.Orange.07}",
-          "type": "color"
-        },
-        "Tint": {
-          "value": "{Color.Global.Orange.02}",
-          "type": "color"
-        }
-      },
-      "AlterMagenta": {
-        "Default": {
-          "value": "{Color.Global.Magenta.05}",
-          "type": "color"
-        },
-        "Light": {
-          "value": "{Color.Global.Magenta.03}",
-          "type": "color"
-        },
-        "Dark": {
-          "value": "{Color.Global.Magenta.07}",
-          "type": "color"
-        },
-        "Tint": {
-          "value": "{Color.Global.Magenta.02}",
-          "type": "color"
-        }
-      },
-      "Theme": {
-        "Default": {
-          "value": "{Color.Global.Neutral.01}",
-          "type": "color"
-        },
-        "Dark": {
-          "value": "{Color.Global.Neutral.02}",
-          "type": "color"
-        },
-        "Darker": {
-          "value": "{Color.Global.Neutral.03}",
-          "type": "color"
-        },
-        "Darkest": {
-          "value": "{Color.Global.Neutral.04}",
-          "type": "color"
-        }
-      },
-      "Content": {
-        "Default": {
-          "value": "{Color.Global.Neutral.11}",
-          "type": "color"
-        },
-        "Light": {
-          "value": "{Color.Global.Neutral.08}",
-          "type": "color"
-        },
-        "Lighter": {
-          "value": "{Color.Global.Neutral.07}",
-          "type": "color"
-        },
-        "Lightest": {
-          "value": "{Color.Global.Neutral.06}",
-          "type": "color"
+        "Content": {
+          "Default": {
+            "value": "{Color.Global.Neutral.11}",
+            "type": "color"
+          },
+          "Light": {
+            "value": "{Color.Global.Neutral.08}",
+            "type": "color"
+          },
+          "Lighter": {
+            "value": "{Color.Global.Neutral.07}",
+            "type": "color"
+          },
+          "Lightest": {
+            "value": "{Color.Global.Neutral.06}",
+            "type": "color"
+          }
         }
       }
     }
