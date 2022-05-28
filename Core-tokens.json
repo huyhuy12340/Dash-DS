@@ -1,29 +1,31 @@
 {
   "Foudation": {
-    "4px": {
-      "value": "4",
-      "type": "borderRadius"
-    },
-    "8px": {
-      "value": "{4px} + {4px}",
-      "type": "borderRadius"
-    },
-    "12px": {
-      "value": "{8px} + {4px}",
-      "type": "borderRadius"
-    },
-    "16px": {
-      "value": "{12px} + {4px}",
-      "type": "borderRadius"
-    },
-    "20px": {
+    "BorderRadius": {
+      "4px": {
+        "value": "4",
+        "type": "borderRadius"
+      },
+      "8px": {
+        "value": "{BorderRadius.4px} + {BorderRadius.4px}",
+        "type": "borderRadius"
+      },
+      "12px": {
+        "value": "{BorderRadius.8px} + {BorderRadius.4px}",
+        "type": "borderRadius"
+      },
+      "16px": {
+        "value": "{BorderRadius.12px} + {BorderRadius.4px}",
+        "type": "borderRadius"
+      },
+      "20px": {
         "value": "20",
         "type": "borderRadius"
       },
       "24px": {
         "value": "24",
         "type": "borderRadius"
-      },
+      }
+    },
     "Space": {
       "Stack": {
         "x": {
@@ -521,12 +523,12 @@
     "Color": {
       "Global": {
         "Neutral": {
-          "11": {
-            "value": "#1f1f1f",
-            "type": "color"
-          },
           "10": {
             "value": "#262626",
+            "type": "color"
+          },
+          "11": {
+            "value": "#1f1f1f",
             "type": "color"
           },
           "09": {
