@@ -1,5 +1,5 @@
 {
-  "global": {
+  "Foudation": {
     "4px": {
       "value": "4",
       "type": "borderRadius"
