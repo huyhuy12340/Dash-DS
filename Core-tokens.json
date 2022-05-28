@@ -790,6 +790,60 @@
       "24px": {
         "value": "24",
         "type": "borderRadius"
+      },
+      "Brand": {
+        "Default": {
+          "value": "{Color.Global.Blue.06}",
+          "type": "color"
+        },
+        "Light": {
+          "value": "{Color.Global.Blue.03}",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "{Color.Global.Blue.07}",
+          "type": "color"
+        },
+        "Tint": {
+          "value": "{Color.Global.Blue.02}",
+          "type": "color"
+        }
+      },
+      "Negative": {
+        "Default": {
+          "value": "{Color.Global.Red.05}",
+          "type": "color"
+        },
+        "Light": {
+          "value": "{Color.Global.Red.03}",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "{Color.Global.Red.07}",
+          "type": "color"
+        },
+        "Tint": {
+          "value": "{Color.Global.Red.02}",
+          "type": "color"
+        }
+      },
+      "Positive": {
+        "Default": {
+          "value": "{Color.Global.Green.05}",
+          "type": "color"
+        },
+        "Light": {
+          "value": "{Color.Global.Green.03}",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "{Color.Global.Green.07}",
+          "type": "color"
+        },
+        "Tint": {
+          "value": "{Color.Global.Green.02}",
+          "type": "color"
+        }
       }
     }
   },
