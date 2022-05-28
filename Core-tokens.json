@@ -508,6 +508,10 @@
     },
     "Global": {
       "Neutral": {
+        "10": {
+          "value": "#262626",
+          "type": "color"
+        },
         "11": {
           "value": "#1f1f1f",
           "type": "color"
@@ -770,7 +774,7 @@
         "type": "color"
       },
       "02": {
-        "value": "#2B2B2B",
+        "value": "#2b2b2b",
         "type": "color"
       },
       "01": {
