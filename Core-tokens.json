@@ -16,6 +16,14 @@
       "value": "{12px} + {4px}",
       "type": "borderRadius"
     },
+    "20px": {
+        "value": "20",
+        "type": "borderRadius"
+      },
+      "24px": {
+        "value": "24",
+        "type": "borderRadius"
+      },
     "Space": {
       "Stack": {
         "x": {
@@ -786,14 +794,6 @@
           "value": "#262626",
           "type": "color"
         }
-      },
-      "20px": {
-        "value": "20",
-        "type": "borderRadius"
-      },
-      "24px": {
-        "value": "24",
-        "type": "borderRadius"
       },
       "Alias": {
         "Brand": {
