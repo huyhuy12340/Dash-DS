@@ -1033,6 +1033,14 @@
               "type": "color"
             }
           }
+        },
+        "Ghost": {
+          "Background": {
+            "Default": {
+              "value": "{Color.Alias.Theme.Default}",
+              "type": "color"
+            }
+          }
         }
       }
     }
