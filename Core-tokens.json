@@ -1057,11 +1057,19 @@
             "Default": {
               "value": "{Color.Alias.Content.Default}",
               "type": "color"
+            },
+            "Disable": {
+              "value": "{Color.Alias.Content.Lightest}",
+              "type": "color"
             }
           },
           "Icon": {
             "Default": {
               "value": "{Color.Alias.Content.Default}",
+              "type": "color"
+            },
+            "Disable": {
+              "value": "{Color.Alias.Content.Lightest}",
               "type": "color"
             }
           }
