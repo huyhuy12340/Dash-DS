@@ -948,6 +948,12 @@
               "value": "{Color.Alias.Negative.Default}",
               "type": "color"
             }
+          },
+          "Text": {
+            "Default": {
+              "value": "{Color.Global.Neutral.01}",
+              "type": "color"
+            }
           }
         }
       }
