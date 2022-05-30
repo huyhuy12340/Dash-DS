@@ -931,6 +931,22 @@
             "Default": {
               "value": "{Color.Alias.Brand.Default}",
               "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.Alias.Brand.Dark}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.Button.Solid.Background.Hover}",
+              "type": "color"
+            },
+            "Disable": {
+              "value": "{Color.Alias.Theme.Darker}",
+              "type": "color"
+            },
+            "Negative": {
+              "value": "{Color.Alias.Negative.Default}",
+              "type": "color"
             }
           }
         }
