@@ -1001,11 +1001,11 @@
               "type": "color"
             },
             "Hover": {
-              "value": "{Color.Alias.Content.Default}",
+              "value": "{Color.Alias.Theme.Darker}",
               "type": "color"
             },
-            "Focus": {
-              "value": "{Color.Alias.Content.Default}",
+            "Active": {
+              "value": "{Color.Alias.Theme.Darker}",
               "type": "color"
             },
             "Disable": {
