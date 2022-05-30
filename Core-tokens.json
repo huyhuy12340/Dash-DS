@@ -1015,10 +1015,6 @@
             "Default": {
               "value": "{Color.Alias.Theme.Default}",
               "type": "color"
-            },
-            "Disable": {
-              "value": "{Color.Alias.Theme.Default}",
-              "type": "color"
             }
           },
           "Text": {
