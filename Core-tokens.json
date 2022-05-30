@@ -993,6 +993,14 @@
               "type": "color"
             }
           }
+        },
+        "Outline": {
+          "Border": {
+            "Default": {
+              "value": "{Color.Alias.Theme.Darker}",
+              "type": "color"
+            }
+          }
         }
       }
     }
