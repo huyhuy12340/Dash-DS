@@ -1016,14 +1016,6 @@
               "value": "{Color.Alias.Theme.Default}",
               "type": "color"
             },
-            "Hover": {
-              "value": "{Color.Alias.Theme.Darker}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.Alias.Theme.Darker}",
-              "type": "color"
-            },
             "Disable": {
               "value": "{Color.Alias.Theme.Default}",
               "type": "color"
@@ -1037,6 +1029,10 @@
             "Disable": {
               "value": "{Color.Alias.Content.Lightest}",
               "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.Alias.Brand.Default}",
+              "type": "color"
             }
           },
           "Icon": {
@@ -1046,6 +1042,10 @@
             },
             "Disable": {
               "value": "{Color.Alias.Content.Lightest}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.Alias.Brand.Default}",
               "type": "color"
             }
           }
