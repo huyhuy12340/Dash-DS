@@ -944,7 +944,7 @@
               "value": "{Color.Alias.Theme.Darker}",
               "type": "color"
             },
-            "Negative": {
+            "Destructive": {
               "value": "{Color.Alias.Negative.Default}",
               "type": "color"
             }
