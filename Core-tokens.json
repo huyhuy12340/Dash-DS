@@ -997,7 +997,13 @@
         "Outline": {
           "Border": {
             "Default": {
-              "value": "{Color.Alias.Theme.Darker}",
+              "value": "{Color.Alias.Content.Lighter}",
+              "type": "color"
+            }
+          },
+          "Text": {
+            "Default": {
+              "value": "{Color.Alias.Content.Default}",
               "type": "color"
             }
           }
