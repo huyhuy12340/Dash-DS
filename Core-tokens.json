@@ -1039,6 +1039,30 @@
             "Default": {
               "value": "{Color.Alias.Theme.Default}",
               "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.Alias.Theme.Darker}",
+              "type": "color"
+            },
+            "Active": {
+              "value": "{Color.Alias.Theme.Darker}",
+              "type": "color"
+            },
+            "Disable": {
+              "value": "{Color.Alias.Theme.Default}",
+              "type": "color"
+            }
+          },
+          "Text": {
+            "Default": {
+              "value": "{Color.Alias.Content.Default}",
+              "type": "color"
+            }
+          },
+          "Icon": {
+            "Default": {
+              "value": "{Color.Alias.Content.Default}",
+              "type": "color"
             }
           }
         }
