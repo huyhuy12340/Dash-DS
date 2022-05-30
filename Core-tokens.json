@@ -997,7 +997,7 @@
         "Outline": {
           "Border": {
             "Default": {
-              "value": "{Color.Alias.Content.Lighter}",
+              "value": "{Color.Alias.Theme.Darkest}",
               "type": "color"
             },
             "Hover": {
