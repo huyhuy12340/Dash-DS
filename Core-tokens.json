@@ -954,20 +954,8 @@
               "value": "{Color.Global.Neutral.01}",
               "type": "color"
             },
-            "Hover": {
-              "value": "{Color.Global.Neutral.01}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.Global.Neutral.01}",
-              "type": "color"
-            },
             "Disable": {
               "value": "{Color.Alias.Content.Lightest}",
-              "type": "color"
-            },
-            "Negative": {
-              "value": "{Color.Global.Neutral.01}",
               "type": "color"
             }
           },
@@ -976,20 +964,8 @@
               "value": "{Color.Global.Neutral.01}",
               "type": "color"
             },
-            "Hover": {
-              "value": "{Color.Global.Neutral.01}",
-              "type": "color"
-            },
-            "Active": {
-              "value": "{Color.Global.Neutral.01}",
-              "type": "color"
-            },
             "Disable": {
               "value": "{Color.Alias.Content.Lightest}",
-              "type": "color"
-            },
-            "Negative": {
-              "value": "{Color.Global.Neutral.01}",
               "type": "color"
             }
           }
