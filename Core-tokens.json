@@ -1124,7 +1124,7 @@
             "type": "color"
           }
         },
-        "Outline": {
+        "Border": {
           "Default": {
             "value": "{Color.Alias.Content.Default}",
             "type": "color"
