@@ -1064,6 +1064,20 @@
             "type": "color"
           }
         }
+      },
+      "helpText": {
+        "Text": {
+          "Default": {
+            "value": "{Color.Alias.Content.Default}",
+            "type": "color"
+          }
+        },
+        "Icon": {
+          "Default": {
+            "value": "{Color.Alias.Content.Default}",
+            "type": "color"
+          }
+        }
       }
     }
   },
