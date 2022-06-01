@@ -1094,6 +1094,54 @@
             "type": "color"
           }
         }
+      },
+      "textField": {
+        "text": {
+          "default": {
+            "value": "{Color.Alias.Content.Default}",
+            "type": "color"
+          },
+          "Disable": {
+            "value": "{Color.Alias.Content.Lightest}",
+            "type": "color"
+          }
+        },
+        "Icon": {
+          "Default": {
+            "value": "{Color.Alias.Content.Default}",
+            "type": "color"
+          },
+          "Success": {
+            "value": "{Color.Alias.Positive.Default}",
+            "type": "color"
+          },
+          "Error": {
+            "value": "{Color.Alias.Negative.Default}",
+            "type": "color"
+          },
+          "Disable": {
+            "value": "{Color.Alias.Content.Lightest}",
+            "type": "color"
+          }
+        },
+        "Outline": {
+          "Default": {
+            "value": "{Color.Alias.Content.Default}",
+            "type": "color"
+          },
+          "Success": {
+            "value": "{Color.Alias.Positive.Default}",
+            "type": "color"
+          },
+          "Error": {
+            "value": "{Color.Alias.Negative.Default}",
+            "type": "color"
+          },
+          "Disable": {
+            "value": "{Color.Alias.Content.Lightest}",
+            "type": "color"
+          }
+        }
       }
     }
   },
