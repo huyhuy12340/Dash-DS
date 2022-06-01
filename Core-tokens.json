@@ -1140,6 +1140,10 @@
           "Disable": {
             "value": "{Color.Alias.Content.Lightest}",
             "type": "color"
+          },
+          "Focus": {
+            "value": "{Color.Alias.Brand.Default}",
+            "type": "color"
           }
         }
       }
