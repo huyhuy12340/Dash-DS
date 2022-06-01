@@ -973,7 +973,7 @@
         "Outline": {
           "Border": {
             "Default": {
-              "value": "{Color.Alias.Theme.Darker}",
+              "value": "{Color.Alias.Theme.Darkest}",
               "type": "color"
             },
             "Hover": {
