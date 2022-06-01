@@ -1057,6 +1057,12 @@
             "value": "{Color.Alias.Content.Lightest}",
             "type": "color"
           }
+        },
+        "Asterisk": {
+          "Default": {
+            "value": "{Color.Alias.Negative.Default}",
+            "type": "color"
+          }
         }
       }
     }
