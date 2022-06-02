@@ -1268,6 +1268,16 @@
             "type": "color"
           }
         }
+      },
+      "searchBox": {
+        "text": {
+          "value": "{Color.Alias.Content.Lighter}",
+          "type": "color"
+        },
+        "Background": {
+          "value": "{Color.Alias.Theme.Default}",
+          "type": "color"
+        }
       }
     }
   },
