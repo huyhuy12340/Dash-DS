@@ -1176,6 +1176,10 @@
           "Disable": {
             "value": "{Color.Alias.Theme.Darkest}",
             "type": "color"
+          },
+          "Hover": {
+            "value": "{Color.Alias.Content.Default}",
+            "type": "color"
           }
         }
       },
