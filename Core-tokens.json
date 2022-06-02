@@ -1264,7 +1264,7 @@
             "type": "color"
           },
           "Hover": {
-            "value": "{Color.Alias.Theme.Darker}",
+            "value": "{Color.Alias.Theme.Dark}",
             "type": "color"
           }
         }
