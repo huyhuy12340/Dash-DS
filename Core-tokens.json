@@ -1178,6 +1178,30 @@
             "type": "color"
           }
         }
+      },
+      "searchBar": {
+        "Text": {
+          "Placeholder": {
+            "value": "{Color.Alias.Content.Lightest}",
+            "type": "color"
+          },
+          "Input": {
+            "value": "{Color.Alias.Content.Default}",
+            "type": "color"
+          }
+        },
+        "Icon": {
+          "Typing": {
+            "Default": {
+              "value": "{Color.Alias.Content.Lightest}",
+              "type": "color"
+            },
+            "Hover": {
+              "value": "{Color.Alias.Negative.Default}",
+              "type": "color"
+            }
+          }
+        }
       }
     }
   },
