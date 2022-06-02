@@ -1146,6 +1146,26 @@
             "type": "color"
           }
         }
+      },
+      "Tag": {
+        "Text": {
+          "Default": {
+            "value": "{Color.Alias.Content.Default}",
+            "type": "color"
+          }
+        },
+        "Icon": {
+          "Default": {
+            "value": "{Color.Alias.Content.Default}",
+            "type": "color"
+          }
+        },
+        "Background": {
+          "Default": {
+            "value": "{Color.Alias.Theme.Darker}",
+            "type": "color"
+          }
+        }
       }
     }
   },
