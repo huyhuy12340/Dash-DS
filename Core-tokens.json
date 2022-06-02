@@ -1226,7 +1226,7 @@
       "searchBar": {
         "Text": {
           "Placeholder": {
-            "value": "{Color.Alias.Content.Lightest}",
+            "value": "{Color.Alias.Content.Lighter}",
             "type": "color"
           },
           "Input": {
@@ -1244,6 +1244,18 @@
               "value": "{Color.Alias.Negative.Default}",
               "type": "color"
             }
+          }
+        }
+      },
+      "searchItem": {
+        "Text": {
+          "Title": {
+            "value": "{Color.Alias.Content.Default}",
+            "type": "color"
+          },
+          "subTitle": {
+            "value": "{Color.Alias.Content.Lighter}",
+            "type": "color"
           }
         }
       }
