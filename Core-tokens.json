@@ -158,7 +158,7 @@
       "01": {
         "value": [
           {
-            "color": "#0000001a",
+            "color": "#00000014",
             "type": "dropShadow",
             "x": 0,
             "y": 16,
@@ -179,7 +179,7 @@
       "02": {
         "value": [
           {
-            "color": "#0000001a",
+            "color": "#00000014",
             "type": "dropShadow",
             "x": 0,
             "y": 24,
@@ -200,12 +200,12 @@
       "03": {
         "value": [
           {
-            "color": "#0000001a",
+            "color": "#00000014",
             "type": "dropShadow",
             "x": 0,
             "y": 32,
             "blur": 48,
-            "spread": -8
+            "spread": -12
           },
           {
             "color": "#0000000d",
@@ -221,12 +221,12 @@
       "04": {
         "value": [
           {
-            "color": "#0000001a",
+            "color": "#00000014",
             "type": "dropShadow",
             "x": 0,
             "y": 40,
             "blur": 56,
-            "spread": -8
+            "spread": -12
           },
           {
             "color": "#0000000d",
